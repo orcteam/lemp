@@ -133,5 +133,3 @@ service memcached {start|stop|status|restart|reload}
 
 ## Installation
 
-Follow the instructions in [Wiki Installation page](https://github.com/lj2007331/lnmp/wiki/Installation)<br />
-
